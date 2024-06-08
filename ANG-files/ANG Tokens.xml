@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <cards>
+
+    <card>
+      <name>Elemental</name>
+      <set>ANG</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Merfolk</name>
+      <set>ANG</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Merfolk </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Warlock</name>
+      <set>ANG</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Zombie</name>
+      <set>ANG</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Soldier</name>
+      <set>ANG</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Wolf</name>
+      <set>ANG</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Angel</name>
+      <set>ANG</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Elemental</name>
+      <set>ANG</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Monkey </name>
+      <set>ANG</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Monkey </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Beast</name>
+      <set>ANG</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Bird</name>
+      <set>ANG</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>

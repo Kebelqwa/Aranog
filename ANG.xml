@@ -1,0 +1,3950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>ANG</name>
+      <longname>Aranog</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Cealin Monk</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Monkey Monk </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Kicker 1W (You may pay an additional 1W as you cast this spell.)
+When Cealin Monk enters, if it was kicked, put a +1/+1 counter on it then draw a card.</text>
+    </card>
+    <card>
+      <name>Arken Spite</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target attacking creature unless its controller pays an amount of colorless mana equal to twice that creatures mana value.</text>
+    </card>
+    <card>
+      <name>Arken Tactician</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Arken Tactician enters, shuffle each card in your graveyard named Arken Tactician into your library.
+{T}: Another target creature you control gets +1/+0 or +0/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Auric Barrier</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Prevent all damage that would be dealt to you and target creature you control this turn.</text>
+    </card>
+    <card>
+      <name>Cealin Aeromancer</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Monkey Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Empire — As long as there are three or more basic land types among lands you control, Cealin Aeromancer has flying</text>
+    </card>
+    <card>
+      <name>Moon Summons</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WWW</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a flying 4/4 white Angel creature token. If you control an attacking creature, that token enters tapped and attacking.</text>
+    </card>
+    <card>
+      <name>Nullify Pain</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>XW</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Prevent all combat damage that would be dealt to and dealt by target creature you control. When Nullify Pain prevents the damage a creature an opponent controls would deal this way, Nullify Pain deals that much damage to that creature.</text>
+    </card>
+    <card>
+      <name>Preparations</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+When Preparations enters, you gain 4 life.
+Whenever a creature you control is dealt damage, you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Reap Wheat</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker 1W (You may pay an additional 1W as you cast this spell.)
+You gain 1 life for each land you control. If Reap Wheat was kicked you gain 1 life for each land on the battlefield instead.</text>
+    </card>
+    <card>
+      <name>Replenish Stamina</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker WW (You may pay an additional WW as you cast this spell.)
+Target creature gets +2/+2 until end of turn. If Replenish Stamina was kicked, that creature gains hexproof and indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Siege Griffin</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Griffin Mount </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Mount 1W (1W, {T}: Another non-riding creature you control rides this creature for as long as it remains tapped. You may choose not to untap this creature during your untap step as long as it is being ridden.)
+Whenever Siege Griffin’s rider attacks, it gets +1/+1 each other attacking creature you control.</text>
+    </card>
+    <card>
+      <name>Unlikely Alliance</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control get +2/+2 until end of turn. Monkey and Human creatures you control gain vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>Tear from Memory</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell.
+Draw a card</text>
+    </card>
+    <card>
+      <name>Willed to Exist</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast an aura, create a 1/1 blue Elemental creature token. You may attach that aura to that token instead</text>
+    </card>
+    <card>
+      <name>Dredge Edge</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Dredge Edge enters tapped.</text>
+    </card>
+    <card>
+      <name>Apocalypse Rider</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Zombie Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+When Apocalypse Rider enters, you may return a creature with mount from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Bog Fiend</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Bog Fiend deals combat damage to a player, discard a card.</text>
+    </card>
+    <card>
+      <name>Hallowed Guard</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hallowed Guard enters tapped.
+Empire — When Hallowed Guard dies, if there are three or more basic land types among lands you control, create a 2/2 black Zombie creature token.</text>
+    </card>
+    <card>
+      <name>Unholy Behemoth</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon Mount </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mount 2B (2B, {T}: Another non-riding creature you control rides this creature for as long as it remains tapped. You may choose not to untap this creature during your untap step as long as it is being ridden.)
+When Unholy Behemoth’s rider dies, each opponent loses life equal to that creatures mana value.</text>
+    </card>
+    <card>
+      <name>Immense Anger</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature has double strike and menace. (Creature with menace can’t be blocked except by two or more creatures.)</text>
+    </card>
+    <card>
+      <name>Battle Strategy</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker 2RR (You may pay an additional 2RR as you cast this spell.)
+Discard a card then draw two cards. If Battle Strategy was kicked, discard your hand then draw three cards instead.</text>
+    </card>
+    <card>
+      <name>Blue Eyed Dragon</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+2R: Blue Eyed Dragon gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Arken Sorceror</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>RRR: Arken Sorceror gets +2/+0 until end of turn.
+5RRR: Create three 1/1 red Elemental creature tokens with haste.</text>
+    </card>
+    <card>
+      <name>Driven Mad</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain control of target creature until end of turn. That creature gains haste and menace until end of turn.</text>
+    </card>
+    <card>
+      <name>Firetrail</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Firetrail deals 2 damage to target creature and 2 damage to it’s rider. It’s rider is no longer riding that creature.</text>
+    </card>
+    <card>
+      <name>Goblin Maniac</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Goblin Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Goblin Maniac dies, it deals 1 damage to each player.</text>
+    </card>
+    <card>
+      <name>Hoarding Sprite</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Faerie Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+{T}: Hoarding Sprite deals 1 damage to any target and 1 damage to you.</text>
+    </card>
+    <card>
+      <name>Kird Avenger</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Monkey </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever Kird Avenger attacks, it deals 2 damage to each player.</text>
+    </card>
+    <card>
+      <name>Goblin Ambush</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 red Goblin creature tokens. If Goblin Ambush isn’t the first spell you’ve cast this turn, create three of those tokens instead.</text>
+    </card>
+    <card>
+      <name>Fireblast Witch</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Empire — 3R: Fireblast Witch deals 2 damage to any noncreature target. Activate only if there are three or more basic land types among lands you control</text>
+    </card>
+    <card>
+      <name>Warfront Hound</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hound Mount </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Mount 1R (1R, {T}: Another non-riding creature you control rides this creature for as long as it remains tapped. You may choose not to untap this creature during your untap step as long as it is being ridden.)
+Warfront Hound’s rider has haste.</text>
+    </card>
+    <card>
+      <name>Adaptive Predator</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>GG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever one or more +1/+1 counters are placed on another creature you control, put that many +1/+1 counters on Adaptive Predator.</text>
+    </card>
+    <card>
+      <name>Ambush Elf</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Archer </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+Whenever Ambush Elf is dealt damage while it is blocking, put a +1/+1 counter on target creature you control.</text>
+    </card>
+    <card>
+      <name>Frontier Guide</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Frontier Guide enters, you may put a land card from your graveyard onto the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Throng Simian</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Monkey </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other Monkey creatures you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>Wandering Beast</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Beast Mount </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Mount 1G (1G, {T}: Another non-riding creature you control rides this creature for as long as it remains tapped. You may choose not to untap this creature during your untap step as long as it is being ridden.)
+Wandering Beast’s rider gets +1/+1 and has trample.</text>
+    </card>
+    <card>
+      <name>Reap Sorrow</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player reveals their hand. You gain life equal to the number of non-generic mana symbols among cards revealed this way and that player loses that much life.</text>
+    </card>
+    <card>
+      <name>Hypercognition</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature
+Enchanted creature gets +2/+0.
+When Hypercognition enters, you may have enchanted creature deals damage equal to its power to target opponent or planeswalker an opponent controls.</text>
+    </card>
+    <card>
+      <name>Helix Field</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>A deck can have any number of cards named Helix Field.
+Helix Field enters tapped.
+{T}: Add {C}.
+At the beginning of your upkeep, if you control ten or more lands named Helix Field, you win the game.</text>
+    </card>
+    <card>
+      <name>Patrol Ridge</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Patrol Ridge enters, reveal up to two cards from your hand. Patrol Ridge enters tapped unless red and white were among the colors of cards revealed this way.
+{T}: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>Rooted Tropics</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Rooted Tropics enters, reveal up to two cards from your hand. Rooted Tropics enters tapped unless green and blue were among the colors of cards revealed this way.
+{T}: Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>Unstable Terrain</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Unstable Terrain enters, reveal up to two cards from your hand. Unstable Terrain enters tapped unless blue and red were among the colors of cards revealed this way.
+{T}: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Arken Healer</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: You gain 1 life
+Empire — {T}: You gain 2 life. Activate only if there are three or more basic land types among lands you control.</text>
+    </card>
+    <card>
+      <name>Arken Phalanx</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Empire — Whenever Arken Phalanx attacks, if there are three or more basic land types among lands you control, Arken Phalanx gains indestructible until of turn</text>
+    </card>
+    <card>
+      <name>Arken Skyscout</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink</text>
+    </card>
+    <card>
+      <name>Ascendant Knight</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Ascendant Knight attacks or blocks, each player gains 1 life.</text>
+    </card>
+    <card>
+      <name>Assess Forces</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Untap any number of target creatures. Then tap any number of target creatures.</text>
+    </card>
+    <card>
+      <name>Barracks</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant land
+Enchanted land has “{T}: Create a 1/1 white Soldier creature token.”</text>
+    </card>
+    <card>
+      <name>Breath of the Ancients</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You gain 4 life.
+Empire — If there are three or more basic land types among lands you control, you gain 10 life instead.</text>
+    </card>
+    <card>
+      <name>Battlefront Sorceress</name>
+      <set rarity="mythic">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Empire — Whenever Battlefront Sorceress attacks, choose one. If there are three or more basic land types among lands you control, choose two instead—
+• Tap target creature defending player controls.
+• Create a tapped and attacking 2/2 white Knight creature token.
+• Damage that would be dealt to other creatures you control this turn is dealt to Battlefront Sorceress instead.</text>
+    </card>
+    <card>
+      <name>Illuminated Blades</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchanted creature gets +2/+2 and has vigilance and lifelink.</text>
+    </card>
+    <card>
+      <name>Light in the Dark</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap or untap target creature. Remove that creature from combat.
+Draw a card</text>
+    </card>
+    <card>
+      <name>Persisting Justice</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Sacrifice Persisting Justice: Enchanted creature gains indestructible until end of turn.
+Empire — When Persisting Justice is put into a graveyard from the battlefield, if there are three or more basic land types among lands you control, draw a card.</text>
+    </card>
+    <card>
+      <name>Plated Griffin</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Griffin Mount </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+Mount 2W (2W, {T}: Another non-riding creature you control rides this creature for as long as it remains tapped. You may choose not to untap this creature during your untap step as long as it is being ridden.)
+Plated Griffin’s rider has flying and vigilance.</text>
+    </card>
+    <card>
+      <name>Resilient Infantry</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+    </card>
+    <card>
+      <name>Ruos Kareed</name>
+      <set rarity="mythic">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WWW</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Planeswalker - Ruos </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Ruos Kareed enters, you gain 10 life.
+[+3]: Until your next turn, Ruos Kareed becomes an 8/8 white Monkey creature with vigilance in addition to his other types. Prevent all damage that would be dealt to him by creatures not attacking him.
+[-X]: Your life total becomes equal to the number of loyalty counters removed from Ruos Kareed.</text>
+    </card>
+    <card>
+      <name>Soulflame Angel</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Enchanted creatures you control get +1/+1 and have flying.</text>
+    </card>
+    <card>
+      <name>Stand Tall</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+3 and gains vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>Towering Presence</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+2.
+At the beginning of your upkeep you gain 2 life.</text>
+    </card>
+    <card>
+      <name>True Valor</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+1 for each creature that entered the battlefield this turn.</text>
+    </card>
+    <card>
+      <name>Progressive Knowledge</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Suspend 2—3UU (Rather than cast this card from your hand, you may pay 3UU and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
+Whenever a time counter is removed from Progressive Knowledge, draw a card.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Royal Toast</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Tap target creature. If Royal Toast was kicked, that creature doesn’t untap during its controller’s next untap step.</text>
+    </card>
+    <card>
+      <name>Birdcloak</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+2 and has flying.
+Empire — As long as there are three or more basic land types among lands you control, enchanted creature has hexproof.</text>
+    </card>
+    <card>
+      <name>Whispering Blade</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit Mount </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mount 4U (4U, {T}: Another non-riding creature you control rides this creature for as long as it remains tapped. You may choose not to untap this creature during your untap step as long as it is being ridden.)
+Whispering Blade’s rider deals combat damage to a player, draw a card.</text>
+    </card>
+    <card>
+      <name>Huhn Witch</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>5U, {T}: Draw a card. This ability costs {1} less to activate for each card you own in exile.</text>
+    </card>
+    <card>
+      <name>Retraction Helix</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, target creature gains “{T}: Return target nonland permanent to its owner’s hand.”</text>
+    </card>
+    <card>
+      <name>Æthersphere Mage</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Faerie Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Æthersphere Mage enters, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</text>
+    </card>
+    <card>
+      <name>Blunt Lessons</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each player can’t draw cards during their draw step.
+Whenever a player casts a spell, each player draws a card.</text>
+    </card>
+    <card>
+      <name>Eldritch Vision</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top three cards of your library. You may put a card from among them into your hand. If you do, put a card from your hand on the top of your library. Put the remaining cards on the bottom of your library in any order.</text>
+    </card>
+    <card>
+      <name>Huhn Prophet</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Huhn Prophet enters, you may search your library for a card. If you do, shuffle your library then put that card beneath the top two cards of your library.</text>
+    </card>
+    <card>
+      <name>Huhn Spellblade</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Noncreature spells you cast cost {1} less to cast during an opponents turn.</text>
+    </card>
+    <card>
+      <name>Leroldt&apos;s Grasp</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+You may choose to not have enchanted creature untap during its controller’s untap step.
+Empire — As long as there are three or more basic land types among lands you control, you control that creature.</text>
+    </card>
+    <card>
+      <name>Lone Conjurer</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Lone Conjurer enters, draw a card.</text>
+    </card>
+    <card>
+      <name>Loyal Drake</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Drake Mount </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Mount 4U (4U, {T}: Another non-riding creature you control rides this creature for as long as it remains tapped. You may choose not to untap this creature during your untap step as long as it is being ridden.)
+Loyal Drake’s rider gets +2/+2 and has flying</text>
+    </card>
+    <card>
+      <name>Magecraft</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell unless its controller pays {X}, where X is the number of basic land types among lands you control</text>
+    </card>
+    <card>
+      <name>Mistform</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Up to two target creatures can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>Northern Elf</name>
+      <set rarity="mythic">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+As long as Northern Elf is riding another creature, it has flying.
+Whenever Northern Elf deals combat damage to a player, draw a card.</text>
+    </card>
+    <card>
+      <name>Tome Thief</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Tome Thief deals combat damage to a player, draw a card</text>
+    </card>
+    <card>
+      <name>Conjured Horror</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Suspend 7—BB (Rather than cast this card from your hand, you may pay BB and exile it with seven time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
+Target player reveals their hand. You choose an instant or sorcery card from among them. That player discards that card.</text>
+    </card>
+    <card>
+      <name>Smogveil Demon</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Demon Mount </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Mount 2BB (2BB, {T}: Another non-riding creature you control rides this creature for as long as it remains tapped. You may choose not to untap this creature during your untap step as long as it is being ridden.)
+Smogveil Demon’s rider dies, each player loses life equal to that creature’s mana value.</text>
+    </card>
+    <card>
+      <name>Jhetesh Steed</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horse Zombie Mount </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mount 2BB (2BB, {T}: Another non-riding creature you control rides this creature for as long as it remains tapped. You may choose not to untap this creature during your untap step as long as it is being ridden.)
+Jhetesh Steed can’t block.
+Jhetesh Steed’s rider gets +2/+3 and can’t block</text>
+    </card>
+    <card>
+      <name>Horrific Fate</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature dies, scry 1. Then each opponent loses 1 life. You gain life equal to the amount lost this way.</text>
+    </card>
+    <card>
+      <name>Darklight Witch</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Pay 3 life: Target Warlock or Wizard creature gains lifelink until end of turn.</text>
+    </card>
+    <card>
+      <name>Contagion Nightmare</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Centaur Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Contagion Nightmare deals damage to creatures in the form of -1/-1 counters.</text>
+    </card>
+    <card>
+      <name>Undead Dissent</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets -1/-1 for each Swamp you control and loses all abilities.</text>
+    </card>
+    <card>
+      <name>Jhetesh Archdemon</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Pay 4 life: Draw two cards.
+Whenever you draw a card, sacrifice a creature.</text>
+    </card>
+    <card>
+      <name>Behead</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Behead enters, put two -1/-1 counters on enchanted creature.
+Enchanted creature can’t block.</text>
+    </card>
+    <card>
+      <name>Dementia Guard</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Shade </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Kicker XB (You may pay an additional XB as you cast this spell.)
+Intimidate (This creature can’t be blocked except by artifact creatures and/or creatures that share a color with it.)
+When Dementia Guard enters, if it was kicked, each player loses X life.</text>
+    </card>
+    <card>
+      <name>Fleshrend</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker 1B (You may pay an additional 1B as you cast this spell.)
+Target creature gets -2/-2 until end of turn. If Fleshrend was kicked that creature gets -4/-4 instead.</text>
+    </card>
+    <card>
+      <name>The Great 10 Plagues</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BBBB</manacost>
+        <cmc>8</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player loses life equal to the number of cards in their graveyard. If a player lost 10 or more life this way, that player loses the game.</text>
+    </card>
+    <card>
+      <name>Insulated Dead</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Whenever a creature dies, put a -1/-1 counter on another target creature.</text>
+    </card>
+    <card>
+      <name>Gorgonsight</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target blocking creature.
+Empire — If there are three or more basic land types among lands you control, all creatures blocked by that creature gain trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Frightful Discovery</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Target player reveals his or her hand. If Frightful Discovery was kicked, you choose a nonland card from it. That player discards that card. Otherwise that player discards a card.</text>
+    </card>
+    <card>
+      <name>Point of No Return</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a player casts a spell, that player loses 1 life.
+Whenever a creature dies, its controller gains 1 life.</text>
+    </card>
+    <card>
+      <name>Witches&apos; Dance</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a player discards one or more cards card or pays life, create a 2/1 black Warlock creature token.</text>
+    </card>
+    <card>
+      <name>Al&apos;Cjas Fury</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker 1R (You may pay an additional 1R as you cast this spell.)
+Target creature gets +1/+0 and gains haste until end of turn. If Al’Cjas Fury was kicked, that creature gains double strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Dragon Overlord</name>
+      <set rarity="mythic">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Dragon Overlord enters, you may discard your hand. If you do, draw that many cards and one additional card.
+Whenever Dragon Overlord attacks, it gets +1/+0 for each other attacking creature.</text>
+    </card>
+    <card>
+      <name>Al&apos;Cjas Orcs</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Orc Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Empire — As long as there are three or more basic land types among lands you control, creatures you control have haste.</text>
+    </card>
+    <card>
+      <name>Broodfire Sprite</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Kicker {R} (You may pay an additional {R} as you cast this spell.)
+When Broodfire Sprite enters, if it was kicked, it gets +2/+2 and gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Crackling Wall</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+Whenever Crackling Wall blocks, it deals deals X damage to all creatures blocked by it, where X is the number of attacking creatures.</text>
+    </card>
+    <card>
+      <name>Dragon Steed</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon Mount </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Mount 3R (3R, {T}: Another non-riding creature you control rides this creature for as long as it remains tapped. You may choose not to untap this creature during your untap step as long as it is being ridden.)
+2RR: Dragon Steed or it’s rider gets +2/+0 until end of turn. Activate only once each turn.</text>
+    </card>
+    <card>
+      <name>Emberflame Witch</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Emberflame Witch enters, discard your hand. Then draw a card for each Warlock creature you control.</text>
+    </card>
+    <card>
+      <name>Explosive Fall</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Explosive Fall deals 2 damage to target creature. When that creature dies this turn, draw a card.</text>
+    </card>
+    <card>
+      <name>Fiery Dawn</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature enters, Fiery Dawn deals 1 damage to each player.
+Sacrifice Fiery Dawn: Target creature gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Firebrand Strike</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Empire — Firebrand Strike deals 4 damage to target opponent. If there are three or more basic land types among lands you control, Firebrand Strike deals 4 damage to up to one target creature that player controls.</text>
+    </card>
+    <card>
+      <name>Ignition Mage</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Ignition Mage deals 1 damage to each player.
+Empire — RR, {T}: Ignition Mage deals 3 damage to target player. Activate this a ability only if there are three or more basic land types among lands you control.</text>
+    </card>
+    <card>
+      <name>Kinetic Ignition</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kinetic Ignition deals 1 damage to target creature and 1 damage to that creatures controller.
+Empire — If there are three or more basic land types among lands you control, Kinetic Ignition deals 3 damage that creature and 3 damage to that creatures controller instead.</text>
+    </card>
+    <card>
+      <name>Kird Hunter</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Monkey Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+5G: Regenerate Kird Hunter. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)</text>
+    </card>
+    <card>
+      <name>Kird Wanderer</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Monkey Nomad </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Kird Wanderer attacks, flip a coin. If you win the flip, another target creature gains intimidate until end of turn. (This creature can’t be blocked except by artifact creatures and/or creatures that share a color with it.)</text>
+    </card>
+    <card>
+      <name>Meteor Plunge</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>XR</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker RR (You may pay an additional RR as you cast this spell.)
+Meteor Plunge deals X damage to target creature. If it was kicked, it deals twice that much damage to that creature instead.</text>
+    </card>
+    <card>
+      <name>Shall not Pass</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose up to three target creatures. Shall not Pass deals 2 damage to the first creature. When that first creature dies this turn, Shall not Pass deals 2 damage to the second creature. When that second creature dies this turn, Shall not Pass deals 2 damage to the third creature.</text>
+    </card>
+    <card>
+      <name>Shattering Slash</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker 2R (You may pay an additional 2R as you cast this spell.)
+Target creature you control gets +X/+0 until end of turn, where X is its power. Sacrifice that creature at the beginning of the next end step unless Shattering Slash was kicked.</text>
+    </card>
+    <card>
+      <name>Skyfall Hellkite</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon Mount </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Mount 4R (4R, {T}: Another non-riding creature you control rides this creature for as long as it remains tapped. You may choose not to untap this creature during your untap step as long as it is being ridden.)
+Skyfall Hellkite’s rider has flying.
+{R}: Skyfall Hellkite or its rider gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Soulfire Dragon</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Kicker 1R (You may pay an additional 1R as you cast this spell.)
+When Soulfire Dragon enters, if it was kicked, it deals damage equal to its power to target creature. If that creature is destroyed this way, Soulfire Dragon gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Storm Witch</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Storm Witch enters, it deals X damage to any target, where X is the number of Warlock creatures you control.</text>
+    </card>
+    <card>
+      <name>Sudden Flame</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Sudden Flame deals X damage to any target, where X is the number of instant and sorcery spells that have been cast this turn.</text>
+    </card>
+    <card>
+      <name>Writhing Roots</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Plant </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender, reach</text>
+    </card>
+    <card>
+      <name>Bloodscent Rhino</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Rhino </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Suspend 2—1GGG (Rather than cast this card from your hand, you may pay 1GGG and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)</text>
+    </card>
+    <card>
+      <name>Barkspitter Elemental</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hexproof
+Whenever you cast a multicolored spell targeting Barkspitter Elemental, draw a card.</text>
+    </card>
+    <card>
+      <name>Arbor Guard</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant land
+Enchanted land has “{T}: Add one mana of any color.
+Whenever you cast a spell, until end of turn, enchanted land becomes a 2/2 green Elemental creature. Its still a land.</text>
+    </card>
+    <card>
+      <name>Ascended Elf</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elf Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, {T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Blasphemous Strength</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +5/+5 and gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Carnage Baloth</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Beast Mount </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Mount—Sacrifice a creature (Sacrifice a creature, {T}: Another non-riding creature you control rides this creature for as long as it remains tapped. You may choose not to untap this creature during your untap step as long as it is being ridden.)
+Carnage Baloth’s rider gets +3/+2 and has trample</text>
+    </card>
+    <card>
+      <name>Consuming Leyline</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Lands tap for colorless mana rather than the mana they would regularly produce.
+{2}: Add one mana of any color. Any player may activate this ability.</text>
+    </card>
+    <card>
+      <name>Frayrunner Wolf</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Wolf Mount </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mount 3GG (3GG, {T}: Another non-riding creature you control rides this creature for as long as it remains tapped. You may choose not to untap this creature during your untap step as long as it is being ridden.)
+Frayrunner Wolf’s rider gets +2/+2.</text>
+    </card>
+    <card>
+      <name>Heroes Plan</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker 1G (You may pay an additional 1G as you cast this spell.)
+Put a +1/+1 counter on target creature and its rider. If Heroes Plan was kicked put two +1/+1 counters on those creatures instead.</text>
+    </card>
+    <card>
+      <name>Garruk, Wild Again</name>
+      <set rarity="mythic">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Planeswalker - Garruk </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Target tapped creature you control fights target untapped creature you don’t control.
+[-3]: Create a 3/3 green Beast creature token.
+[-6]: You get an emblem with “Creatures you control get +2/+2 and have trample and can’t be blocked by more than one creature.”</text>
+    </card>
+    <card>
+      <name>Huhn Beastmaster</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Kicker 3G (You may pay an additional 3G as you cast this spell.)
+When Huhn Beastmaster enters, if it was kicked, create a 3/3 green Beast creature token.</text>
+    </card>
+    <card>
+      <name>Huhn Outrider</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Huhn Outrider deals combat damage to a player, if its power is greater than 4, draw that many cards.</text>
+    </card>
+    <card>
+      <name>Lead the Rampage</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature can’t be blocked by creatures with power less than that creatures power.</text>
+    </card>
+    <card>
+      <name>Nighthunt</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker {3} (You may pay an additional {3} as you cast this spell.)
+Target creature you control fights target creature you don’t control. If Nighthunt was kicked, the creature you control gets +3/+3 until end of turn before it fights</text>
+    </card>
+    <card>
+      <name>Paradise Wanderer</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Empire — {T}: Add one mana of any color. If there are three or more basic land types among lands you control, add two mana of any color instead.</text>
+    </card>
+    <card>
+      <name>Plantify</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature loses all abilities and is a 0/2 green Plant creature with “{T}: Add two mana of any color.”</text>
+    </card>
+    <card>
+      <name>Primeval Prowess</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XG</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +X/+X until end of turn. If X is greater than or equal to 5, untap X target lands you control.</text>
+    </card>
+    <card>
+      <name>Raised by Wolves</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Raised by Wolves enters, create two 2/2 green Wolf creature tokens.
+Enchanted creature gets +1/+1 for each Wolf you control.</text>
+    </card>
+    <card>
+      <name>Regenerate</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Regenerate target creature. (The next time that permanent would be destroyed this turn, it isn’t. Instead tap it.)</text>
+    </card>
+    <card>
+      <name>Rendered Ramparts</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Rendered Ramparts enters, target creature gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Scouring Baloth</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Empire — When Scouring Baloth enters, if there are three or more basic land types among lands you control, put a +1/+1 counter on Scouring Baloth.</text>
+    </card>
+    <card>
+      <name>Shock Python</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Snake </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+{G}: Shock Python gains deathtouch until end of turn.</text>
+    </card>
+    <card>
+      <name>Simian Ascendant</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>GG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Monkey Monk </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever Simian Ascendant attacks, untap target land.</text>
+    </card>
+    <card>
+      <name>Simian Groundshaker</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GGG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Monkey Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+    </card>
+    <card>
+      <name>Simian Guard</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Monkey </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+Empire — As long as there are three or more basic land types among lands you control, Simian Guard loses defender and must attack each turn if able.</text>
+    </card>
+    <card>
+      <name>Treejumper Simian</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Monkey </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+Treejumper Simian can’t be blocked by creatures with flying.</text>
+    </card>
+    <card>
+      <name>Wayfare</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a basic land card. Put that card into your hand then shuffle your library.
+Empire — If there are three or more basic land types among lands you control, you may search your library for two Forest cards instead. Put those cards into your hand then shuffle your library.</text>
+    </card>
+    <card>
+      <name>Huhn Tactician</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash, lifelink
+You may cast sorcery spells as though they had flash.</text>
+    </card>
+    <card>
+      <name>Wizened Huhn</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+2WU, Exile Wizened Huhn from your graveyard: Put target attacking creature on top of its owners library.</text>
+    </card>
+    <card>
+      <name>Tommorow Agents</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you draw a card, each player loses 1 life.
+{T}: Draw a card then discard a card.</text>
+    </card>
+    <card>
+      <name>Unbury</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player sacrifices a creature. Each player draws a number of cards equal to the sacrificed creatures toughness.</text>
+    </card>
+    <card>
+      <name>Cell Lurker</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Shade </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Cell Lurker deals combat damage to a player, you mill two cards. (Put the top two cards of your library into your graveyard.)
+When Cell Lurker dies, return target creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Beheld Elf</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hexproof, lifelink</text>
+    </card>
+    <card>
+      <name>Huhn Protector</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Huhn Protector enters, put a +1/+1 counter on each other multicolored creature you control.</text>
+    </card>
+    <card>
+      <name>Living Husk</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Plant Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever Living Husk attacks, you lose 1 life.</text>
+    </card>
+    <card>
+      <name>Rockfall</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>XRW</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You gain X life. Rockfall deals X damage to target creature.</text>
+    </card>
+    <card>
+      <name>Physical Awakening</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one—
+• Put two +1/+1 counters on target creature you control.
+• Return target creature you don’t control to its owners hand.</text>
+    </card>
+    <card>
+      <name>Archbound Architects</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Each player loses 1 life.</text>
+    </card>
+    <card>
+      <name>Battlemage Armor</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equip {4}
+Equipped creature gets +0/+2.
+No more than one creature may deal combat damage to equipped creature each turn.</text>
+    </card>
+    <card>
+      <name>Shambled Monument</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Shambled Monument enters, draw a card.
+{T}: Flip a coin. If you win the flip, add {C}.</text>
+    </card>
+    <card>
+      <name>Sword of Guidance</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+2.
+Equip {4}</text>
+    </card>
+    <card>
+      <name>Trading Grounds</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+Empire — As long as there are three or more basic land types among lands you control, Trading Grounds has “{T}: Add one mana of any color.”</text>
+    </card>
+    <card>
+      <name>Rotten Wilds</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Rotten Wilds enters, reveal up to two cards from your hand. Rotten Wilds enters tapped unless black and green were among the colors of cards revealed this way.
+{T}: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>Sundered Cathedral</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Sundered Cathedral enters, reveal up to two cards from your hand. Sundered Cathedral enters tapped unless white and black were among the colors of cards revealed this way.
+{T}: Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Arcane Phantom</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cast a spell during an opponents turn, put a +1/+1 counter on Arcane Phantom.</text>
+    </card>
+    <card>
+      <name>Cealin Spellblade</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Monkey Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2U, {T}: Each player draws a card. Then each player discards a card unless they pay {1}.</text>
+    </card>
+    <card>
+      <name>Quicken Witch</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hexproof
+{T}: Remove a time counter from a suspended card you own.</text>
+    </card>
+    <card>
+      <name>Æthersteed Mage</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2U: Exile Æthersteed Mage a creature it is riding. Then return those creatures to the battlefield. You may have Æthersteed Mage ride the other creature.</text>
+    </card>
+    <card>
+      <name>Huhn Fae</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Faerie Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Empire — Whenever Huhn Fae deals combat damage to a player, if there are three or more basic land types among lands you control, you may draw a card. If you do, discard a card.</text>
+    </card>
+    <card>
+      <name>In Time</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>15UUUUU</manacost>
+        <cmc>20</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Suspend 30—{U} (Rather than cast this card from your hand, you may pay {U} and exile it with thirty time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
+Whenever you cast a spell, remove a time counter from In Time.
+You win the game if you cast In Time from exile. Otherwise, exile In Time with fifteen time counters.</text>
+    </card>
+    <card>
+      <name>Caelin Mage</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Monkey Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Caelin Mage enters, exile the top two cards of your library. You may play cards exiled this way until end of turn.</text>
+    </card>
+    <card>
+      <name>Shimmering Distraction</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker—Pay 2 life (You may pay 2 life in addition to any other costs as you cast this spell.)
+Look at target players hand.
+If Shimmering Distraction was kicked, draw a card.</text>
+    </card>
+    <card>
+      <name>Shoregreet Leviathan</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Leviathan Mount </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Shoregreet Leviathan can’t be blocked.
+Mount 8UU (8UU, {T}: Another non-riding creature you control rides this creature for as long as it remains tapped. You may choose not to untap this creature during your untap step as long as it is being ridden.)
+Shoregreet Leviathan’s rider gets +3/+2 and can’t be blocked.</text>
+    </card>
+    <card>
+      <name>Huhn Interrogator</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Huhn Interrogator enters, tap target creature. That creatures controller reveals their hand.</text>
+    </card>
+    <card>
+      <name>Witch&apos;s Apprentice</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elf Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell with more than one target, you may have Witch’s Apprentice become an additional target of that spell.
+Whenever an opponent casts a spell targeting Witch’s Apprentice, sacrifice it at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Twist Space</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target attacking creature, return that creature to the battlefield tapped attacking target player that doesn’t control it. If you are targeted this way, remove that creature from combat.</text>
+    </card>
+    <card>
+      <name>Caelin Equilizer</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Monkey Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice Caelin Equilizer: Target creature you control assigns combat damage equal to its toughness rather than its power until end of turn.</text>
+    </card>
+    <card>
+      <name>Centaur Avenger</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Centaur Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever Centaur Avenger attacks, you may put a +1/+1 counter on another target creature you control.</text>
+    </card>
+    <card>
+      <name>Capital Guard</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender, vigilance
+As long as Capital Guard is riding another creature, Capital Guard can attack as though it didn’t have defender and it assigns combat damage equal to its toughness rather than its power.</text>
+    </card>
+    <card>
+      <name>Caelin Galvanizer</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Monkey Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Suspend 3—WW
+When Caelin Galvanizer enters, creatures you control get +2/+2 until end of turn. Those creatures have haste if Caelin Galvanizer entered from exile this turn.</text>
+    </card>
+    <card>
+      <name>Prove Wrong</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker 1W (You may pay an additional 1W as you cast this spell.)
+Put target creature card with mana value 2 or less from your graveyard onto the battlefield.
+If Prove Wrong was kicked, return it to your hand as it resolves.</text>
+    </card>
+    <card>
+      <name>Kareed Missionary</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Monkey </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Kareed Missionary attacks, tap up to one target creature defending player controls.</text>
+    </card>
+    <card>
+      <name>Wandering Hero</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+    </card>
+    <card>
+      <name>Gallows Chant</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You gain 1 life for each creature that entered the battlefield this turn and for each creature that died this turn. Each opponent loses life equal to the amount you gained this way.</text>
+    </card>
+    <card>
+      <name>Dying&apos;s Vengeance</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker—Sacrifice a creature (You may sacrifice a creature in addition to any other costs as you cast this spell.)
+Destroy target creature or planeswalker. If Dying’s Vengeance was kicked, destroy an additional target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Progressive Decay</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Suspend 3—3BB (Rather than cast this card from your hand, you may pay 3BB and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
+Whenever a time counter is removed from Progressive Decay, put a -1/-1 counter on target creature.
+Destroy target creature.</text>
+    </card>
+    <card>
+      <name>Jhetesh Witch</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Empire — When Jhetesh Witch enters, if there are three or more basic land types among lands you control, target creature gets -3/-3 until end of turn.</text>
+    </card>
+    <card>
+      <name>Master of Witchcraft</name>
+      <set rarity="mythic">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{B}, {T}: Create a 2/1 Warlock creature token.
+Whenever Master of Witchcraft or another creature enters under your control, each opponent loses 1 life. If that creature is a Warlock, you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Last Kiss</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Last Kiss deals 2 damage to target creature and you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Crashing Boar</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Boar </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Empire — When Crashing Boar dies, if there are three or more basic land types among lands you control, you gain 4 life.</text>
+    </card>
+    <card>
+      <name>Caelin Valiant</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5W</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Monkey Monk </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Suspend 6—1W
+Whenever one or more creatures attack you, if Caelin Valiant is suspended, remove a time counter from it.
+Lifelink</text>
+    </card>
+    <card>
+      <name>Hunger for Flesh</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Create a 2/2 green Wolf creature token. If Hunger for Flesh was kicked, create two 2/2 black Zombie creature tokens instead.</text>
+    </card>
+    <card>
+      <name>Radiant Powerstone</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Untap another target permanent.
+{5}, {Q}: Tap target permanent.</text>
+    </card>
+    <card>
+      <name>Animated Roots</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant land
+Whenever enchanted land is tapped for mana, that land produces an additional mana of that color.
+Empire — As long as there are three or more basic land types among lands you control, enchanted land is a 3/3 green elemental creature in addition to its other types. It is still a land.</text>
+    </card>
+    <card>
+      <name>Riejor, Arken Progenitor</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever Riejor attacks, put a number of +1/+1 counters on it equal to the power of the creature it is riding.</text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Journey&apos;s End</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a land enters under your control, choose one —
+• Put a +1/+1 counter on target creature.
+• Each player draws a card.
+• Untap target land.</text>
+    </card>
+    <card>
+      <name>Lightrunner Bolt</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RRR</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Lightrunner Bolt deals 4 damage to target creature. Add four mana of any color, then draw a card.</text>
+    </card>
+    <card>
+      <name>Burnt Fate</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one—
+• Counter target spell
+• Copy target instant or sorcery spell. You may choose new targets for the copy.</text>
+    </card>
+    <card>
+      <name>Eldritch Steed</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Mount </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Eldritch Steed can’t be blocked.
+Mount 3UU (3UU, {T}: Another non-riding creature you control rides this creature for as long as it remains tapped. You may choose not to untap this creature during your untap step as long as it is being ridden.)
+Eldritch Steed’s rider can’t be blocked.</text>
+    </card>
+    <card>
+      <name>Huhn Synchrocaster</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Suspend 1—3GG (Rather than cast this card from your hand, you may pay 3GG and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+When Huhn Synchrocaster enters, if you cast it from exile, add GG.</text>
+    </card>
+    <card>
+      <name>Swept through Time</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature to its owner’s hand.
+Empire — If there are three or more basic land types among lands you control, put that creature on top of its owner’s library instead.</text>
+    </card>
+    <card>
+      <name>Rugged Brawl</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Target creature you control deals damage equal to its power to any other target. If Rugged Brawl was kicked and targeted two or more creatures, both creatures deal damage equal to their power to themselves instead.</text>
+    </card>
+    <card>
+      <name>Darkbolt Witch</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+{T}: Darkbolt Witch deals 1 damage to each player.</text>
+    </card>
+    <card>
+      <name>Fury Bursts</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Suspend 2—3R (Rather than cast this card from your hand, you may pay 3R and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
+Whenever a time counter is removed from Fury Bursts, target creature gains menace until end of turn.
+Gain control of target creature until end of turn. Untap it. That creature gains haste and menace until end of turn.</text>
+    </card>
+    <card>
+      <name>Realign</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker 2U (You may pay an additional 2U as you cast this spell.)
+Tap target creature. If Realign was kicked, tap another target creature and creatures tapped by Realign don’t untap during their controllers next untap step.</text>
+    </card>
+    <card>
+      <name>Soulseeper</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Whenever you gain life, each opponent loses that much life.</text>
+    </card>
+    <card>
+      <name>Gather Strength</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Suspend 2—{G} (Rather than cast this card from your hand, you may pay {G} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
+Target creature gets +3/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Jhetesh Ritual</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast Jhetesh Ritual, sacrifice a creature.
+Destroy target creature. Its controller loses life equal to that creatures power.</text>
+    </card>
+    <card>
+      <name>Mysterious Disapearance</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target nonland permanent. That permanent gains suspend, put two time counters on it.</text>
+    </card>
+    <card>
+      <name>Landwill</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>3GU</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target land becomes a copy of target permanent you control.</text>
+    </card>
+    <card>
+      <name>Fabled Swordsman</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Kicker {W} (You may pay an additional {W} as you cast this spell.)
+When Fabled Swordsman enters, if it was kicked, target creature gets +1/+1 and gains vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>Wartime Archangel</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+Wartime Archangel must attack and block each turn if able</text>
+    </card>
+    <card>
+      <name>Cloudcover Aven</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Suspend 2—2UU (Rather than cast this card from your hand, you may pay 2UU and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+Whenever a time counter is removed from Cloudcover Aven, look at the top two cards of your library. Put them back on top of your library in any order.</text>
+    </card>
+    <card>
+      <name>Steel Sarcophagus</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Empire — As long as there are three or more basic land types among lands you control, Steel Sarcophagus is a 3/3 colorless Golem artifact creature.</text>
+    </card>
+    <card>
+      <name>Kareed&apos;s Chosen</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Monkey </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Empire — As long as there are three or more basic land types among lands you control, Kareed’s Chosen has vigilance and lifelink.</text>
+    </card>
+    <card>
+      <name>Pact Witch</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Pact Witch attacks, defending player draws a card.</text>
+    </card>
+    <card>
+      <name>Rotsoul Witch</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
+When Rotsoul Witch enters, choose one. If Rotsoul Witch was kicked, choose both —
+• Put two +1/+1 counters on target creature.
+• Put two -1/-1 counters on target creature.</text>
+    </card>
+    <card>
+      <name>Tundra Elemental</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, haste</text>
+    </card>
+    <card>
+      <name>Mawblade Bug</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, first strike
+Whenever Mawblade Bug deals combat damage to a creature an opponent controls, return Mawblade Bug from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Land of Riches</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a land enters tapped under your control, untap it.
+Empire — As long as there are three or more basic land types among lands you control, lands you control have “{T}: Add one mana of any color.”</text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Sweeping Waves</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker 2U (You may pay an additional 2U as you cast this spell.)
+Return target creature to its owner’s hand.
+If Sweeping Waves was kicked, create a 2/2 blue Merfolk creature token.</text>
+    </card>
+    <card>
+      <name>Outland Roughrider</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Monkey Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as Outland Roughrider is riding another creature, Outland Roughrider has haste and first strike</text>
+    </card>
+    <card>
+      <name>Caelin Exosuit</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equip {1}
+Whenever a creature enters under your control, you may attach Caelin Exosuit to it.
+Equipped creature gets +1/+1.</text>
+    </card>
+    <card>
+      <name>Tusked Simian</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Monkey </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace (This creature can’t be blocked except by two or more creatures.)
+Other Monkey creatures you control have menace. (Creatures with menace can’t be blocked except by two or more creatures.)</text>
+    </card>
+    <card>
+      <name>Amplify Grief</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose target player. For each creature that died this turn, that player mills three cards. (They put the top three cards of their library into their graveyard.)
+Draw a card</text>
+    </card>
+    <card>
+      <name>Worshipped Angel</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WWW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Worshipped Angel attacks, it gets +1/+1 for each untapped creature you control.
+Tap an untapped creature you control: Worshipped Angel gains vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>Progressive Destiny</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Suspend 6—2W (Rather than cast this card from your hand, you may pay 2W and exile it with six time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
+Whenever a time counter is removed from Progressive Destiny, you gain 1 life.
+You gain 6 life.</text>
+    </card>
+    <card>
+      <name>Gong Keeper</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Monkey Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature enters under your control, creatures you control get +0/+1 until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>Progressive Bolt</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Suspend X XR (Rather than cast this card from your hand, you may pay XR and exile it with X time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
+Whenever a time counter is removed from Progressive Bolt, it deals 1 damage to target player or planeswalker.
+Progressive Bolt deals 3 damage to any target.</text>
+    </card>
+    <card>
+      <name>Chained Monstrosity</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Chained Monstrosity can’t attack or block unless you have lost life this turn.</text>
+    </card>
+    <card>
+      <name>Darkstar Elemental</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Darkstar Elemental or another creature you control dies, target player loses 1 life.</text>
+    </card>
+    <card>
+      <name>Darkstar Mage</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Vampire Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Darkstar Mage dies, at the beginning of the next end step, you gain life equal to the amount of life your opponents have lost this turn</text>
+    </card>
+    <card>
+      <name>Muckstrider Witch</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, intimidate (This creature can’t be blocked except by artifact creatures and/or creatures that share a color with it.)</text>
+    </card>
+    <card>
+      <name>Bloodspear Shaman</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Bloodspear Shaman deals combat damage to a player, put a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>Forge Patron</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a noncreature spell, Forge Patron gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Simian Elder</name>
+      <set rarity="mythic">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Monkey </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever another nontoken creature with power 4 or greater enters under your control, create a 4/4 green Monkey creature token with trample.</text>
+    </card>
+    <card>
+      <name>Flurry Simian</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Monkey Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Other Monkey creatures you control have haste.
+1R: Flurry Simian gets +1/-1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Tear to Pieces</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker BB (You may pay an additional BB as you cast this spell.)
+Destroy target creature. If Tear to Pieces was kicked, put a creature from your graveyard in to your hand.</text>
+    </card>
+    <card>
+      <name>Boneyard Dragon</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dragon Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, deathtouch
+Whenever a creature you control attacks, the defending player loses 1 life.</text>
+    </card>
+    <card>
+      <name>Infected Warrior</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Vampire Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>BB, {T}: Target creature gains deathtouch until end of turn.</text>
+    </card>
+    <card>
+      <name>Roofjumper</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Intimidate (This creature can’t be blocked except by artifact creatures and/or creatures that share a color with it.)
+2BB: Regenerate Roofjumper. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)</text>
+    </card>
+    <card>
+      <name>Scorched Grounds</name>
+      <set rarity="mythic">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RRRR</manacost>
+        <cmc>8</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you lose unspent mana by ending a phase during your turn, at the beginning of the next phase, Scorched Grounds deals X damage to each opponent. Where X is the amount of mana lost this way.</text>
+    </card>
+    <card>
+      <name>The Raven Man</name>
+      <set rarity="mythic">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Planeswalker - Eolto </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+2]: Each player sacrifices a nontoken creature.
+[-6]: You get an emblem with “Whenever a nontoken creature you control dies, create a 2/2 black Zombie creature token.”
+[-10]: You get an emblem with “Whenever a creature dies, draw a card.”</text>
+    </card>
+    <card>
+      <name>Guide of Ruos</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Shaman Mount </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mount 2W (2W, {T}: Another non-riding creature you control rides this creature for as long as it remains tapped. You may choose not to untap this creature during your untap step as long as it is being ridden.)
+As long as Guide of Ruos is riding a creature, Guide of Ruos and that creature each have indestructible.</text>
+    </card>
+    <card>
+      <name>Clockworker</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Clockworker enters or attacks, you may remove a time counter from a suspended card you own in exile.
+{T}: Each player exiles the top card of their library. If a card with suspend is exiled this way, put a number of time counters on it equal to its suspend number.</text>
+    </card>
+    <card>
+      <name>Last Battle</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gains haste, double strike, and menace until end of turn. Sacrifice that creature at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Druidic Masterpiece</name>
+      <set rarity="mythic">ANG</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Empire — As long as there are three or more basic land types among lands you control, Druidic Masterpiece has indestructible and it assigns combat damage equal to its toughness rather than its power.</text>
+    </card>
+    <card>
+      <name>Void Guardian</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost>8</manacost>
+        <cmc>8</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+This spell costs {1} less to cast for each card you own in exile.</text>
+    </card>
+    <card>
+      <name>Punisher Bolt</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Punisher Bolt deals 2 damage to target creature.
+Empire — If there are three or more basic land types among lands you control, Punisher Bolt deals 4 damage to that creature instead.</text>
+    </card>
+    <card>
+      <name>Shaman Trio</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Shaman Trio enters, create two 1/1 green Shaman creature tokens.
+At the beginning of your upkeep, if you control more creatures than an opponent, put a +1/+1 counter on each creature you control.</text>
+    </card>
+    <card>
+      <name>Demon&apos;s Pawn</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Demon’s Pawn enters, you lose 2 life.
+When Demon’s Pawn dies, draw a card.</text>
+    </card>
+    <card>
+      <name>Temple of the Fallen Gods</name>
+      <set rarity="mythic">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+Empire — {T}: Add CC. Activate only if there are three or more basic land types among lands you control.</text>
+    </card>
+    <card>
+      <name>Resonance Orb</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Tap two untapped creatures you control: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Rotspawn</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BBB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature you control dies, put an undeath counter on Rotspawn.
+When Rotspawn dies, create a number of 2/2 black Zombie creature tokens equal to the number of undeath counters on Rotspawn.</text>
+    </card>
+    <card>
+      <name>Mage Relic</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}, Sacrifice Mage Relic: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.
+{1}, {T}, Sacrifice Mage Relic: Draw a card.</text>
+    </card>
+    <card>
+      <name>Fanatic Warmage</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess
+Whenever you cast a noncreature spell, Fanatic Warmage gains menace until end of turn.</text>
+    </card>
+    <card>
+      <name>Corrupted Simian</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Monkey Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Corrupted Simian can’t block.</text>
+    </card>
+    <card>
+      <name>Astral Goddess</name>
+      <set rarity="mythic">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Move a time counter from a card you own in exile onto Astral Goddess.
+1U, Remove a time counter from Astral Goddess: Scry 1.
+{T}, Remove five time counters from Astral Goddess: Take an extra turn after this one.</text>
+    </card>
+    <card>
+      <name>Blind Sustenance</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you would draw a card, you may Scry 2 instead.
+Sacrifice Blind Sustenance: Scry 2 then draw a card.</text>
+    </card>
+    <card>
+      <name>Feathercloak Battlemage</name>
+      <set rarity="uncommon">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever Feathercloak Battlemage deals combat damage to a player, draw a card. Then discard a card unless you’ve cast a noncreature spell this turn.</text>
+    </card>
+    <card>
+      <name>Feathercloak Witch</name>
+      <set rarity="common">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hexproof
+Tap an untapped creature you control: Feathercloak Witch gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Gifts from Oblivion</name>
+      <set rarity="rare">ANG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Choose one. If Gifts from Oblivion was kicked, choose both—
+• Scry 4 then draw two cards.
+• Remove two time counters any number of suspended cards you own.</text>
+    </card>
