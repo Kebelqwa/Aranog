@@ -387,12 +387,12 @@
 	        }
 	    },
 	    {
-	        "name": "Swamp",
+	        "name": "Swamp.3",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Basic Land — Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Swamp.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Swamp.3.jpg"
 	        }
 	    },
 	    {
@@ -1476,21 +1476,21 @@
 	        }
 	    },
 	    {
-	        "name": "Plains",
+	        "name": "Plains.3",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Basic Land — Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Plains.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Plains.3.jpg"
 	        }
 	    },
 	    {
-	        "name": "Island",
+	        "name": "Island.2",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Basic Land — Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Island.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Island.2.jpg"
 	        }
 	    },
 	    {
@@ -1503,21 +1503,21 @@
 	        }
 	    },
 	    {
-	        "name": "Mountain",
+	        "name": "Mountain.3",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Basic Land — Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Mountain.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Mountain.3.jpg"
 	        }
 	    },
 	    {
-	        "name": "Mountain",
+	        "name": "Mountain.2",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Basic Land — Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Mountain.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Mountain.2.jpg"
 	        }
 	    },
 	    {
@@ -1530,12 +1530,12 @@
 	        }
 	    },
 	    {
-	        "name": "Forest",
+	        "name": "Forest.2",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Basic Land — Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Forest.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Forest.2.jpg"
 	        }
 	    },
 	    {
@@ -1818,12 +1818,12 @@
 	        }
 	    },
 	    {
-	        "name": "Swamp",
+	        "name": "Swamp.2",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Basic Land — Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Swamp.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Swamp.2.jpg"
 	        }
 	    },
 	    {
@@ -1836,21 +1836,21 @@
 	        }
 	    },
 	    {
-	        "name": "Island",
+	        "name": "Island.3",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Basic Land — Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Island.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Island.3.jpg"
 	        }
 	    },
 	    {
-	        "name": "Forest",
+	        "name": "Forest.3",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Basic Land — Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Forest.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Forest.3.jpg"
 	        }
 	    },
 	    {
@@ -2079,12 +2079,12 @@
 	        }
 	    },
 	    {
-	        "name": "Plains",
+	        "name": "Plains.2",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Basic Land — Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Plains.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Plains.2.jpg"
 	        }
 	    },
 	    {
@@ -2829,18 +2829,18 @@
 		4 Feathercloak Witch
 	[BasicSlot(1)]
 		10 Island
-		10 Swamp
+		10 Swamp.3
 		10 Plains
-		10 Plains
-		10 Island
+		10 Plains.3
+		10 Island.2
 		10 Swamp
-		10 Mountain
-		10 Mountain
+		10 Mountain.3
+		10 Mountain.2
 		10 Forest
-		10 Forest
-		10 Swamp
+		10 Forest.2
+		10 Swamp.2
 		10 Mountain
-		10 Island
-		10 Forest
-		10 Plains
+		10 Island.3
+		10 Forest.3
+		10 Plains.2
 	
