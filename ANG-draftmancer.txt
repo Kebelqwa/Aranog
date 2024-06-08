@@ -2340,12 +2340,12 @@
 	        }
 	    },
 	    {
-	        "name": "Elemental",
+	        "name": "Elemental.2",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Elemental.jpg"
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Elemental.2.jpg"
 	        }
 	    },
 	    {
