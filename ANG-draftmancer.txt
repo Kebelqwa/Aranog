@@ -1,0 +1,2846 @@
+[CustomCards]
+	[    {
+	        "name": "Cealin Monk",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Monkey Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Cealin Monk.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arken Spite",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Arken Spite.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arken Tactician",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Arken Tactician.jpg"
+	        }
+	    },
+	    {
+	        "name": "Auric Barrier",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Auric Barrier.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cealin Aeromancer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Creature — Monkey Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Cealin Aeromancer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Moon Summons",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{W}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Moon Summons.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nullify Pain",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Nullify Pain.jpg"
+	        }
+	    },
+	    {
+	        "name": "Preparations",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Preparations.jpg"
+	        }
+	    },
+	    {
+	        "name": "Reap Wheat",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Reap Wheat.jpg"
+	        }
+	    },
+	    {
+	        "name": "Replenish Stamina",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Replenish Stamina.jpg"
+	        }
+	    },
+	    {
+	        "name": "Siege Griffin",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Creature — Griffin Mount ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Siege Griffin.jpg"
+	        }
+	    },
+	    {
+	        "name": "Unlikely Alliance",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Unlikely Alliance.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tear from Memory",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Tear from Memory.jpg"
+	        }
+	    },
+	    {
+	        "name": "Willed to Exist",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Willed to Exist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dredge Edge",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Zombie Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Dredge Edge.jpg"
+	        }
+	    },
+	    {
+	        "name": "Apocalypse Rider",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Zombie Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Apocalypse Rider.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bog Fiend",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Bog Fiend.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hallowed Guard",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Hallowed Guard.jpg"
+	        }
+	    },
+	    {
+	        "name": "Unholy Behemoth",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Creature — Demon Mount ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Unholy Behemoth.jpg"
+	        }
+	    },
+	    {
+	        "name": "Immense Anger",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Immense Anger.jpg"
+	        }
+	    },
+	    {
+	        "name": "Battle Strategy",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Battle Strategy.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blue Eyed Dragon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Blue Eyed Dragon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arken Sorceror",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Arken Sorceror.jpg"
+	        }
+	    },
+	    {
+	        "name": "Driven Mad",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Driven Mad.jpg"
+	        }
+	    },
+	    {
+	        "name": "Firetrail",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Firetrail.jpg"
+	        }
+	    },
+	    {
+	        "name": "Goblin Maniac",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Goblin Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Goblin Maniac.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hoarding Sprite",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Faerie Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Hoarding Sprite.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kird Avenger",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Monkey ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Kird Avenger.jpg"
+	        }
+	    },
+	    {
+	        "name": "Goblin Ambush",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Goblin Ambush.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fireblast Witch",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Fireblast Witch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Warfront Hound",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Hound Mount ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Warfront Hound.jpg"
+	        }
+	    },
+	    {
+	        "name": "Adaptive Predator",
+	        "rarity": "common",
+	        "mana_cost": "{G}{G}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Adaptive Predator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ambush Elf",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Elf Archer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Ambush Elf.jpg"
+	        }
+	    },
+	    {
+	        "name": "Frontier Guide",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Frontier Guide.jpg"
+	        }
+	    },
+	    {
+	        "name": "Throng Simian",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Monkey ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Throng Simian.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wandering Beast",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Beast Mount ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Wandering Beast.jpg"
+	        }
+	    },
+	    {
+	        "name": "Reap Sorrow",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Reap Sorrow.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hypercognition",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Hypercognition.jpg"
+	        }
+	    },
+	    {
+	        "name": "Helix Field",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Helix Field.jpg"
+	        }
+	    },
+	    {
+	        "name": "Patrol Ridge",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Patrol Ridge.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rooted Tropics",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Rooted Tropics.jpg"
+	        }
+	    },
+	    {
+	        "name": "Unstable Terrain",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Unstable Terrain.jpg"
+	        }
+	    },
+	    {
+	        "name": "Island",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Island.jpg"
+	        }
+	    },
+	    {
+	        "name": "Swamp",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Swamp.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arken Healer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Arken Healer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arken Phalanx",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Arken Phalanx.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arken Skyscout",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Arken Skyscout.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ascendant Knight",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Ascendant Knight.jpg"
+	        }
+	    },
+	    {
+	        "name": "Assess Forces",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Assess Forces.jpg"
+	        }
+	    },
+	    {
+	        "name": "Barracks",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Barracks.jpg"
+	        }
+	    },
+	    {
+	        "name": "Breath of the Ancients",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Breath of the Ancients.jpg"
+	        }
+	    },
+	    {
+	        "name": "Battlefront Sorceress",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Battlefront Sorceress.jpg"
+	        }
+	    },
+	    {
+	        "name": "Illuminated Blades",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Illuminated Blades.jpg"
+	        }
+	    },
+	    {
+	        "name": "Light in the Dark",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Light in the Dark.jpg"
+	        }
+	    },
+	    {
+	        "name": "Persisting Justice",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Persisting Justice.jpg"
+	        }
+	    },
+	    {
+	        "name": "Plated Griffin",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Griffin Mount ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Plated Griffin.jpg"
+	        }
+	    },
+	    {
+	        "name": "Resilient Infantry",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Resilient Infantry.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ruos Kareed",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{W}{W}{W}",
+	        "type": "Legendary Planeswalker — Ruos ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Ruos Kareed.jpg"
+	        }
+	    },
+	    {
+	        "name": "Soulflame Angel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Soulflame Angel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Stand Tall",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Stand Tall.jpg"
+	        }
+	    },
+	    {
+	        "name": "Towering Presence",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Towering Presence.jpg"
+	        }
+	    },
+	    {
+	        "name": "True Valor",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/True Valor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Progressive Knowledge",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Progressive Knowledge.jpg"
+	        }
+	    },
+	    {
+	        "name": "Royal Toast",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Royal Toast.jpg"
+	        }
+	    },
+	    {
+	        "name": "Birdcloak",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Birdcloak.jpg"
+	        }
+	    },
+	    {
+	        "name": "Whispering Blade",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Spirit Mount ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Whispering Blade.jpg"
+	        }
+	    },
+	    {
+	        "name": "Huhn Witch",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Elf Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Huhn Witch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Retraction Helix",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Retraction Helix.jpg"
+	        }
+	    },
+	    {
+	        "name": "Æthersphere Mage",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Faerie Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Æthersphere Mage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blunt Lessons",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Blunt Lessons.jpg"
+	        }
+	    },
+	    {
+	        "name": "Eldritch Vision",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Eldritch Vision.jpg"
+	        }
+	    },
+	    {
+	        "name": "Huhn Prophet",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Creature — Elf Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Huhn Prophet.jpg"
+	        }
+	    },
+	    {
+	        "name": "Huhn Spellblade",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Elf Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Huhn Spellblade.jpg"
+	        }
+	    },
+	    {
+	        "name": "Leroldt's Grasp",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Leroldt's Grasp.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lone Conjurer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Lone Conjurer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Loyal Drake",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Drake Mount ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Loyal Drake.jpg"
+	        }
+	    },
+	    {
+	        "name": "Magecraft",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Magecraft.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mistform",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Mistform.jpg"
+	        }
+	    },
+	    {
+	        "name": "Northern Elf",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Creature — Elf Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Northern Elf.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tome Thief",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Tome Thief.jpg"
+	        }
+	    },
+	    {
+	        "name": "Conjured Horror",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Conjured Horror.jpg"
+	        }
+	    },
+	    {
+	        "name": "Smogveil Demon",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Demon Mount ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Smogveil Demon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Jhetesh Steed",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Horse Zombie Mount ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Jhetesh Steed.jpg"
+	        }
+	    },
+	    {
+	        "name": "Horrific Fate",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Horrific Fate.jpg"
+	        }
+	    },
+	    {
+	        "name": "Darklight Witch",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Darklight Witch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Contagion Nightmare",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Centaur Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Contagion Nightmare.jpg"
+	        }
+	    },
+	    {
+	        "name": "Undead Dissent",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Undead Dissent.jpg"
+	        }
+	    },
+	    {
+	        "name": "Jhetesh Archdemon",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Jhetesh Archdemon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Behead",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Behead.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dementia Guard",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Shade ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Dementia Guard.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fleshrend",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Fleshrend.jpg"
+	        }
+	    },
+	    {
+	        "name": "The Great 10 Plagues",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}{B}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/The Great 10 Plagues.jpg"
+	        }
+	    },
+	    {
+	        "name": "Insulated Dead",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Insulated Dead.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gorgonsight",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Gorgonsight.jpg"
+	        }
+	    },
+	    {
+	        "name": "Frightful Discovery",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Frightful Discovery.jpg"
+	        }
+	    },
+	    {
+	        "name": "Point of No Return",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Point of No Return.jpg"
+	        }
+	    },
+	    {
+	        "name": "Witches' Dance",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Witches' Dance.jpg"
+	        }
+	    },
+	    {
+	        "name": "Al'Cjas Fury",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Al'Cjas Fury.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dragon Overlord",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Dragon Overlord.jpg"
+	        }
+	    },
+	    {
+	        "name": "Al'Cjas Orcs",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Orc Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Al'Cjas Orcs.jpg"
+	        }
+	    },
+	    {
+	        "name": "Broodfire Sprite",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Broodfire Sprite.jpg"
+	        }
+	    },
+	    {
+	        "name": "Crackling Wall",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Creature — Elemental Wall ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Crackling Wall.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dragon Steed",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Dragon Mount ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Dragon Steed.jpg"
+	        }
+	    },
+	    {
+	        "name": "Emberflame Witch",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Emberflame Witch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Explosive Fall",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Explosive Fall.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fiery Dawn",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Fiery Dawn.jpg"
+	        }
+	    },
+	    {
+	        "name": "Firebrand Strike",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Firebrand Strike.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ignition Mage",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Ignition Mage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kinetic Ignition",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Kinetic Ignition.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kird Hunter",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Monkey Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Kird Hunter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kird Wanderer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Monkey Nomad ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Kird Wanderer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Meteor Plunge",
+	        "rarity": "common",
+	        "mana_cost": "{X}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Meteor Plunge.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shall not Pass",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Shall not Pass.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shattering Slash",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Shattering Slash.jpg"
+	        }
+	    },
+	    {
+	        "name": "Skyfall Hellkite",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Dragon Mount ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Skyfall Hellkite.jpg"
+	        }
+	    },
+	    {
+	        "name": "Soulfire Dragon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Soulfire Dragon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Storm Witch",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Storm Witch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sudden Flame",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Sudden Flame.jpg"
+	        }
+	    },
+	    {
+	        "name": "Writhing Roots",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Plant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Writhing Roots.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bloodscent Rhino",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Rhino ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Bloodscent Rhino.jpg"
+	        }
+	    },
+	    {
+	        "name": "Barkspitter Elemental",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Barkspitter Elemental.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arbor Guard",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Arbor Guard.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ascended Elf",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Elf Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Ascended Elf.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blasphemous Strength",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Blasphemous Strength.jpg"
+	        }
+	    },
+	    {
+	        "name": "Carnage Baloth",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Beast Mount ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Carnage Baloth.jpg"
+	        }
+	    },
+	    {
+	        "name": "Consuming Leyline",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Consuming Leyline.jpg"
+	        }
+	    },
+	    {
+	        "name": "Frayrunner Wolf",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Wolf Mount ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Frayrunner Wolf.jpg"
+	        }
+	    },
+	    {
+	        "name": "Heroes Plan",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Heroes Plan.jpg"
+	        }
+	    },
+	    {
+	        "name": "Garruk, Wild Again",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Legendary Planeswalker — Garruk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Garruk, Wild Again.jpg"
+	        }
+	    },
+	    {
+	        "name": "Huhn Beastmaster",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Elf Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Huhn Beastmaster.jpg"
+	        }
+	    },
+	    {
+	        "name": "Huhn Outrider",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Elf Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Huhn Outrider.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lead the Rampage",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Lead the Rampage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nighthunt",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Nighthunt.jpg"
+	        }
+	    },
+	    {
+	        "name": "Paradise Wanderer",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Paradise Wanderer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Plantify",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Plantify.jpg"
+	        }
+	    },
+	    {
+	        "name": "Primeval Prowess",
+	        "rarity": "common",
+	        "mana_cost": "{X}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Primeval Prowess.jpg"
+	        }
+	    },
+	    {
+	        "name": "Raised by Wolves",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Raised by Wolves.jpg"
+	        }
+	    },
+	    {
+	        "name": "Regenerate",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Regenerate.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rendered Ramparts",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Rendered Ramparts.jpg"
+	        }
+	    },
+	    {
+	        "name": "Scouring Baloth",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Scouring Baloth.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shock Python",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Snake ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Shock Python.jpg"
+	        }
+	    },
+	    {
+	        "name": "Simian Ascendant",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{G}",
+	        "type": "Creature — Monkey Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Simian Ascendant.jpg"
+	        }
+	    },
+	    {
+	        "name": "Simian Groundshaker",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}{G}{G}",
+	        "type": "Creature — Monkey Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Simian Groundshaker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Simian Guard",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Monkey ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Simian Guard.jpg"
+	        }
+	    },
+	    {
+	        "name": "Treejumper Simian",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Monkey ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Treejumper Simian.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wayfare",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Wayfare.jpg"
+	        }
+	    },
+	    {
+	        "name": "Huhn Tactician",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{U}",
+	        "type": "Creature — Elf Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Huhn Tactician.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wizened Huhn",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Creature — Elf Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Wizened Huhn.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tommorow Agents",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Creature — Human Assassin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Tommorow Agents.jpg"
+	        }
+	    },
+	    {
+	        "name": "Unbury",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Unbury.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cell Lurker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Creature — Shade ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Cell Lurker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Beheld Elf",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{W}",
+	        "type": "Creature — Elf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Beheld Elf.jpg"
+	        }
+	    },
+	    {
+	        "name": "Huhn Protector",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{W}",
+	        "type": "Creature — Elf Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Huhn Protector.jpg"
+	        }
+	    },
+	    {
+	        "name": "Living Husk",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{G}",
+	        "type": "Creature — Plant Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Living Husk.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rockfall",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{R}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Rockfall.jpg"
+	        }
+	    },
+	    {
+	        "name": "Physical Awakening",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Physical Awakening.jpg"
+	        }
+	    },
+	    {
+	        "name": "Archbound Architects",
+	        "rarity": "common",
+	        "mana_cost": "{4}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Archbound Architects.jpg"
+	        }
+	    },
+	    {
+	        "name": "Battlemage Armor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Battlemage Armor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shambled Monument",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Shambled Monument.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sword of Guidance",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Sword of Guidance.jpg"
+	        }
+	    },
+	    {
+	        "name": "Trading Grounds",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Trading Grounds.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rotten Wilds",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Rotten Wilds.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sundered Cathedral",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Sundered Cathedral.jpg"
+	        }
+	    },
+	    {
+	        "name": "Plains",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Plains.jpg"
+	        }
+	    },
+	    {
+	        "name": "Plains",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Plains.jpg"
+	        }
+	    },
+	    {
+	        "name": "Island",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Island.jpg"
+	        }
+	    },
+	    {
+	        "name": "Swamp",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Swamp.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mountain",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Mountain.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mountain",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Mountain.jpg"
+	        }
+	    },
+	    {
+	        "name": "Forest",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Forest.jpg"
+	        }
+	    },
+	    {
+	        "name": "Forest",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Forest.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arcane Phantom",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Creature — Illusion ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Arcane Phantom.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cealin Spellblade",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Monkey Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Cealin Spellblade.jpg"
+	        }
+	    },
+	    {
+	        "name": "Quicken Witch",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Quicken Witch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Æthersteed Mage",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Æthersteed Mage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Huhn Fae",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Faerie Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Huhn Fae.jpg"
+	        }
+	    },
+	    {
+	        "name": "In Time",
+	        "rarity": "rare",
+	        "mana_cost": "{15}{U}{U}{U}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/In Time.jpg"
+	        }
+	    },
+	    {
+	        "name": "Caelin Mage",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Monkey Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Caelin Mage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shimmering Distraction",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Shimmering Distraction.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shoregreet Leviathan",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Creature — Leviathan Mount ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Shoregreet Leviathan.jpg"
+	        }
+	    },
+	    {
+	        "name": "Huhn Interrogator",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Elf Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Huhn Interrogator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Witch's Apprentice",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Elf Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Witch's Apprentice.jpg"
+	        }
+	    },
+	    {
+	        "name": "Twist Space",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Twist Space.jpg"
+	        }
+	    },
+	    {
+	        "name": "Caelin Equilizer",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Monkey Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Caelin Equilizer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Centaur Avenger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Creature — Centaur Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Centaur Avenger.jpg"
+	        }
+	    },
+	    {
+	        "name": "Capital Guard",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Capital Guard.jpg"
+	        }
+	    },
+	    {
+	        "name": "Caelin Galvanizer",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Monkey Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Caelin Galvanizer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Prove Wrong",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Prove Wrong.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kareed Missionary",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Monkey ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Kareed Missionary.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wandering Hero",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Wandering Hero.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gallows Chant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Gallows Chant.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dying's Vengeance",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Dying's Vengeance.jpg"
+	        }
+	    },
+	    {
+	        "name": "Progressive Decay",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Progressive Decay.jpg"
+	        }
+	    },
+	    {
+	        "name": "Jhetesh Witch",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Jhetesh Witch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Master of Witchcraft",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Master of Witchcraft.jpg"
+	        }
+	    },
+	    {
+	        "name": "Last Kiss",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Last Kiss.jpg"
+	        }
+	    },
+	    {
+	        "name": "Crashing Boar",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Boar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Crashing Boar.jpg"
+	        }
+	    },
+	    {
+	        "name": "Caelin Valiant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{W}",
+	        "type": "Creature — Monkey Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Caelin Valiant.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hunger for Flesh",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Hunger for Flesh.jpg"
+	        }
+	    },
+	    {
+	        "name": "Radiant Powerstone",
+	        "rarity": "rare",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Radiant Powerstone.jpg"
+	        }
+	    },
+	    {
+	        "name": "Animated Roots",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Animated Roots.jpg"
+	        }
+	    },
+	    {
+	        "name": "Riejor, Arken Progenitor",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Legendary Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Riejor, Arken Progenitor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Swamp",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Swamp.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mountain",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Mountain.jpg"
+	        }
+	    },
+	    {
+	        "name": "Island",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Island.jpg"
+	        }
+	    },
+	    {
+	        "name": "Forest",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Forest.jpg"
+	        }
+	    },
+	    {
+	        "name": "Journey's End",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Journey's End.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lightrunner Bolt",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{R}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Lightrunner Bolt.jpg"
+	        }
+	    },
+	    {
+	        "name": "Burnt Fate",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Burnt Fate.jpg"
+	        }
+	    },
+	    {
+	        "name": "Eldritch Steed",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Elemental Mount ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Eldritch Steed.jpg"
+	        }
+	    },
+	    {
+	        "name": "Huhn Synchrocaster",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Creature — Elf Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Huhn Synchrocaster.jpg"
+	        }
+	    },
+	    {
+	        "name": "Swept through Time",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Swept through Time.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rugged Brawl",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Rugged Brawl.jpg"
+	        }
+	    },
+	    {
+	        "name": "Darkbolt Witch",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{R}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Darkbolt Witch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fury Bursts",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Fury Bursts.jpg"
+	        }
+	    },
+	    {
+	        "name": "Realign",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Realign.jpg"
+	        }
+	    },
+	    {
+	        "name": "Soulseeper",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Soulseeper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gather Strength",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Gather Strength.jpg"
+	        }
+	    },
+	    {
+	        "name": "Jhetesh Ritual",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Jhetesh Ritual.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mysterious Disapearance",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Mysterious Disapearance.jpg"
+	        }
+	    },
+	    {
+	        "name": "Landwill",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Landwill.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fabled Swordsman",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Fabled Swordsman.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wartime Archangel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Wartime Archangel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cloudcover Aven",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Cloudcover Aven.jpg"
+	        }
+	    },
+	    {
+	        "name": "Steel Sarcophagus",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Steel Sarcophagus.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kareed's Chosen",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Creature — Monkey ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Kareed's Chosen.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pact Witch",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Pact Witch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rotsoul Witch",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Rotsoul Witch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tundra Elemental",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Tundra Elemental.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mawblade Bug",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Insect ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Mawblade Bug.jpg"
+	        }
+	    },
+	    {
+	        "name": "Land of Riches",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Land of Riches.jpg"
+	        }
+	    },
+	    {
+	        "name": "Plains",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Plains.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sweeping Waves",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Sweeping Waves.jpg"
+	        }
+	    },
+	    {
+	        "name": "Outland Roughrider",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Monkey Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Outland Roughrider.jpg"
+	        }
+	    },
+	    {
+	        "name": "Caelin Exosuit",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Caelin Exosuit.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tusked Simian",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Monkey ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Tusked Simian.jpg"
+	        }
+	    },
+	    {
+	        "name": "Amplify Grief",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Amplify Grief.jpg"
+	        }
+	    },
+	    {
+	        "name": "Worshipped Angel",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}{W}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Worshipped Angel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Progressive Destiny",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Progressive Destiny.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gong Keeper",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Monkey Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Gong Keeper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Progressive Bolt",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Progressive Bolt.jpg"
+	        }
+	    },
+	    {
+	        "name": "Chained Monstrosity",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Chained Monstrosity.jpg"
+	        }
+	    },
+	    {
+	        "name": "Darkstar Elemental",
+	        "rarity": "common",
+	        "mana_cost": "{5}{B}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Darkstar Elemental.jpg"
+	        }
+	    },
+	    {
+	        "name": "Darkstar Mage",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Vampire Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Darkstar Mage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Muckstrider Witch",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Muckstrider Witch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bloodspear Shaman",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Bloodspear Shaman.jpg"
+	        }
+	    },
+	    {
+	        "name": "Forge Patron",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Forge Patron.jpg"
+	        }
+	    },
+	    {
+	        "name": "Simian Elder",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Monkey ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Simian Elder.jpg"
+	        }
+	    },
+	    {
+	        "name": "Flurry Simian",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Monkey Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Flurry Simian.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tear to Pieces",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Tear to Pieces.jpg"
+	        }
+	    },
+	    {
+	        "name": "Boneyard Dragon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{B}",
+	        "type": "Creature — Dragon Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Boneyard Dragon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Infected Warrior",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Vampire Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Infected Warrior.jpg"
+	        }
+	    },
+	    {
+	        "name": "Roofjumper",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Roofjumper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Elemental",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Elemental.jpg"
+	        }
+	    },
+	    {
+	        "name": "Merfolk",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Merfolk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Merfolk.jpg"
+	        }
+	    },
+	    {
+	        "name": "Warlock",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Warlock.jpg"
+	        }
+	    },
+	    {
+	        "name": "Zombie",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Zombie.jpg"
+	        }
+	    },
+	    {
+	        "name": "Soldier",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Soldier.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wolf",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Wolf.jpg"
+	        }
+	    },
+	    {
+	        "name": "Angel",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Angel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Elemental",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Elemental.jpg"
+	        }
+	    },
+	    {
+	        "name": "Monkey",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Monkey ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Monkey.jpg"
+	        }
+	    },
+	    {
+	        "name": "Scorched Grounds",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{R}{R}{R}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Scorched Grounds.jpg"
+	        }
+	    },
+	    {
+	        "name": "The Raven Man",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Legendary Planeswalker — Eolto ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/The Raven Man.jpg"
+	        }
+	    },
+	    {
+	        "name": "Guide of Ruos",
+	        "rarity": "rare",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Shaman Mount ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Guide of Ruos.jpg"
+	        }
+	    },
+	    {
+	        "name": "Clockworker",
+	        "rarity": "rare",
+	        "mana_cost": "{3}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Clockworker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Beast",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Beast.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bird",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Bird.jpg"
+	        }
+	    },
+	    {
+	        "name": "Last Battle",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Last Battle.jpg"
+	        }
+	    },
+	    {
+	        "name": "Druidic Masterpiece",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Druidic Masterpiece.jpg"
+	        }
+	    },
+	    {
+	        "name": "Void Guardian",
+	        "rarity": "common",
+	        "mana_cost": "{8}",
+	        "type": "Artifact Creature — Golem ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Void Guardian.jpg"
+	        }
+	    },
+	    {
+	        "name": "Punisher Bolt",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Punisher Bolt.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shaman Trio",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}",
+	        "type": "Legendary Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Shaman Trio.jpg"
+	        }
+	    },
+	    {
+	        "name": "Demon's Pawn",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Demon's Pawn.jpg"
+	        }
+	    },
+	    {
+	        "name": "Temple of the Fallen Gods",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Temple of the Fallen Gods.jpg"
+	        }
+	    },
+	    {
+	        "name": "Resonance Orb",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Resonance Orb.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rotspawn",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}{B}{B}",
+	        "type": "Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Rotspawn.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mage Relic",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Mage Relic.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fanatic Warmage",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Fanatic Warmage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Corrupted Simian",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Monkey Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Corrupted Simian.jpg"
+	        }
+	    },
+	    {
+	        "name": "Astral Goddess",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Astral Goddess.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blind Sustenance",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Blind Sustenance.jpg"
+	        }
+	    },
+	    {
+	        "name": "Feathercloak Battlemage",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Elf Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Feathercloak Battlemage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Feathercloak Witch",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Feathercloak Witch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gifts from Oblivion",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Aranog/blob/main/ANG-files/Gifts from Oblivion.jpg"
+	        }
+	    }
+	]
+	[RareSlot(1)]
+		3 Moon Summons
+		3 Unholy Behemoth
+		3 Hypercognition
+		3 Patrol Ridge
+		3 Rooted Tropics
+		3 Unstable Terrain
+		3 Blunt Lessons
+		3 Jhetesh Archdemon
+		3 The Great 10 Plagues
+		3 Al'Cjas Orcs
+		3 Emberflame Witch
+		3 Consuming Leyline
+		3 Simian Ascendant
+		3 Huhn Tactician
+		3 Trading Grounds
+		3 Rotten Wilds
+		3 Sundered Cathedral
+		3 In Time
+		3 Caelin Mage
+		3 Caelin Galvanizer
+		3 Prove Wrong
+		3 Dying's Vengeance
+		3 Radiant Powerstone
+		3 Riejor, Arken Progenitor
+		3 Journey's End
+		3 Lightrunner Bolt
+		3 Rotsoul Witch
+		3 Guide of Ruos
+		3 Clockworker
+		3 Shaman Trio
+		3 Gifts from Oblivion
+		1 Battlefront Sorceress
+		1 Ruos Kareed
+		1 Northern Elf
+		1 Dragon Overlord
+		1 Garruk, Wild Again
+		1 Master of Witchcraft
+		1 Simian Elder
+		1 Scorched Grounds
+		1 The Raven Man
+		1 Druidic Masterpiece
+		1 Temple of the Fallen Gods
+		1 Astral Goddess
+	[UncommonSlot(3)]
+		3 Cealin Monk
+		3 Arken Spite
+		3 Nullify Pain
+		3 Preparations
+		3 Reap Wheat
+		3 Tear from Memory
+		3 Dredge Edge
+		3 Blue Eyed Dragon
+		3 Arken Sorceror
+		3 Fireblast Witch
+		3 Frontier Guide
+		3 Throng Simian
+		3 Reap Sorrow
+		3 Helix Field
+		3 Assess Forces
+		3 Illuminated Blades
+		3 Light in the Dark
+		3 Resilient Infantry
+		3 Soulflame Angel
+		3 Birdcloak
+		3 Eldritch Vision
+		3 Huhn Spellblade
+		3 Leroldt's Grasp
+		3 Magecraft
+		3 Horrific Fate
+		3 Darklight Witch
+		3 Dementia Guard
+		3 Frightful Discovery
+		3 Witches' Dance
+		3 Broodfire Sprite
+		3 Crackling Wall
+		3 Explosive Fall
+		3 Fiery Dawn
+		3 Shall not Pass
+		3 Shattering Slash
+		3 Soulfire Dragon
+		3 Ascended Elf
+		3 Blasphemous Strength
+		3 Carnage Baloth
+		3 Huhn Outrider
+		3 Plantify
+		3 Raised by Wolves
+		3 Shock Python
+		3 Wizened Huhn
+		3 Tommorow Agents
+		3 Unbury
+		3 Cell Lurker
+		3 Beheld Elf
+		3 Huhn Protector
+		3 Living Husk
+		3 Rockfall
+		3 Physical Awakening
+		3 Battlemage Armor
+		3 Arcane Phantom
+		3 Shimmering Distraction
+		3 Witch's Apprentice
+		3 Centaur Avenger
+		3 Gallows Chant
+		3 Progressive Decay
+		3 Jhetesh Witch
+		3 Crashing Boar
+		3 Caelin Valiant
+		3 Hunger for Flesh
+		3 Burnt Fate
+		3 Rugged Brawl
+		3 Darkbolt Witch
+		3 Mysterious Disapearance
+		3 Landwill
+		3 Wartime Archangel
+		3 Steel Sarcophagus
+		3 Kareed's Chosen
+		3 Pact Witch
+		3 Tundra Elemental
+		3 Land of Riches
+		3 Tusked Simian
+		3 Amplify Grief
+		3 Gong Keeper
+		3 Progressive Bolt
+		3 Chained Monstrosity
+		3 Boneyard Dragon
+		3 Punisher Bolt
+		3 Demon's Pawn
+		3 Resonance Orb
+		3 Mage Relic
+		3 Fanatic Warmage
+		3 Blind Sustenance
+		3 Feathercloak Battlemage
+	[CommonSlot(10)]
+		4 Arken Tactician
+		4 Auric Barrier
+		4 Cealin Aeromancer
+		4 Replenish Stamina
+		4 Siege Griffin
+		4 Unlikely Alliance
+		4 Willed to Exist
+		4 Apocalypse Rider
+		4 Bog Fiend
+		4 Hallowed Guard
+		4 Immense Anger
+		4 Battle Strategy
+		4 Driven Mad
+		4 Firetrail
+		4 Goblin Maniac
+		4 Hoarding Sprite
+		4 Kird Avenger
+		4 Goblin Ambush
+		4 Warfront Hound
+		4 Adaptive Predator
+		4 Ambush Elf
+		4 Wandering Beast
+		4 Arken Healer
+		4 Arken Phalanx
+		4 Arken Skyscout
+		4 Ascendant Knight
+		4 Barracks
+		4 Breath of the Ancients
+		4 Persisting Justice
+		4 Plated Griffin
+		4 Stand Tall
+		4 Towering Presence
+		4 True Valor
+		4 Progressive Knowledge
+		4 Royal Toast
+		4 Whispering Blade
+		4 Huhn Witch
+		4 Retraction Helix
+		4 Æthersphere Mage
+		4 Huhn Prophet
+		4 Lone Conjurer
+		4 Loyal Drake
+		4 Mistform
+		4 Tome Thief
+		4 Conjured Horror
+		4 Smogveil Demon
+		4 Jhetesh Steed
+		4 Contagion Nightmare
+		4 Undead Dissent
+		4 Behead
+		4 Fleshrend
+		4 Insulated Dead
+		4 Gorgonsight
+		4 Point of No Return
+		4 Al'Cjas Fury
+		4 Dragon Steed
+		4 Firebrand Strike
+		4 Ignition Mage
+		4 Kinetic Ignition
+		4 Kird Hunter
+		4 Kird Wanderer
+		4 Meteor Plunge
+		4 Skyfall Hellkite
+		4 Storm Witch
+		4 Sudden Flame
+		4 Writhing Roots
+		4 Bloodscent Rhino
+		4 Barkspitter Elemental
+		4 Arbor Guard
+		4 Frayrunner Wolf
+		4 Heroes Plan
+		4 Huhn Beastmaster
+		4 Lead the Rampage
+		4 Nighthunt
+		4 Paradise Wanderer
+		4 Primeval Prowess
+		4 Regenerate
+		4 Rendered Ramparts
+		4 Scouring Baloth
+		4 Simian Groundshaker
+		4 Simian Guard
+		4 Treejumper Simian
+		4 Wayfare
+		4 Archbound Architects
+		4 Shambled Monument
+		4 Sword of Guidance
+		4 Cealin Spellblade
+		4 Quicken Witch
+		4 Æthersteed Mage
+		4 Huhn Fae
+		4 Shoregreet Leviathan
+		4 Huhn Interrogator
+		4 Twist Space
+		4 Caelin Equilizer
+		4 Capital Guard
+		4 Kareed Missionary
+		4 Wandering Hero
+		4 Last Kiss
+		4 Animated Roots
+		4 Eldritch Steed
+		4 Huhn Synchrocaster
+		4 Swept through Time
+		4 Fury Bursts
+		4 Realign
+		4 Soulseeper
+		4 Gather Strength
+		4 Jhetesh Ritual
+		4 Fabled Swordsman
+		4 Cloudcover Aven
+		4 Mawblade Bug
+		4 Sweeping Waves
+		4 Outland Roughrider
+		4 Caelin Exosuit
+		4 Worshipped Angel
+		4 Progressive Destiny
+		4 Darkstar Elemental
+		4 Darkstar Mage
+		4 Muckstrider Witch
+		4 Bloodspear Shaman
+		4 Forge Patron
+		4 Flurry Simian
+		4 Tear to Pieces
+		4 Infected Warrior
+		4 Roofjumper
+		4 Last Battle
+		4 Void Guardian
+		4 Rotspawn
+		4 Corrupted Simian
+		4 Feathercloak Witch
+	[BasicSlot(1)]
+		10 Island
+		10 Swamp
+		10 Plains
+		10 Plains
+		10 Island
+		10 Swamp
+		10 Mountain
+		10 Mountain
+		10 Forest
+		10 Forest
+		10 Swamp
+		10 Mountain
+		10 Island
+		10 Forest
+		10 Plains
+	
